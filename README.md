@@ -12,4 +12,4 @@ The data set which is over 32G includes over 130+ million customer reviews avail
 
 # Exploratory Data Analysis
 ● Customer tends to express strong feelings when it comes to product reviews
-!(https://github.com/lilyzhangnini/amazon-reviews-pds/blob/master/Distribution%20of%20star%20rating.JPG?raw=true)
+![text](https://github.com/lilyzhangnini/amazon-reviews-pds/blob/master/Distribution%20of%20star%20rating.JPG?raw=true)
