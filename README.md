@@ -9,3 +9,6 @@ The data set which is over 32G includes over 130+ million customer reviews avail
 ● Data visualization: matplotlib, wordcloud packages  
 ● Sentiment Analysis: Sentiment Lexicon  
 ● Modeling: logistic regression  
+
+# Exploratory Data Analysis
+● Customer tends to express strong feelings when it comes to product reviews
