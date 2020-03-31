@@ -11,12 +11,12 @@ The data set which is over 32G includes over 130+ million customer reviews avail
 ● Modeling: logistic regression  
 
 ## Exploratory Data Analysis
-● Customer tends to express strong feelings when it comes to product reviews
-  ◎ lower star rating tend to be more helpful for customer
-● Vine membership plays an important role among Amazon customer reviews
-  ◎ Vine member's review is more helpful
-  ◎ Vine member tends to give objective opinion
-● Star rating is in consistent with sentiment preference
+● Customer tends to express strong feelings when it comes to product reviews  
+  ◎ lower star rating tend to be more helpful for customer  
+● Vine membership plays an important role among Amazon customer reviews  
+  ◎ Vine member's review is more helpful  
+  ◎ Vine member tends to give objective opinion  
+● Star rating is in consistent with sentiment preference  
 
 ## Model finding
 ● Review sentiment, Star rating score and vine membership is the top three important features that influence the helpfulness of a review
