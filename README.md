@@ -22,5 +22,5 @@ The data set which is over 32G includes over 130+ million customer reviews avail
 ● Review sentiment, Star rating score and vine membership is the top three important features that influence the helpfulness of a review
 
 ## Advice
-For merchant, they should mananage review that gives low star rating and take measures to prevent low star rating in advance. Furthermore, they could invite vine member to try presell product and write product reviews.
+For merchant, they should mananage review that gives low star rating and take measures to prevent low star rating in advance. Furthermore, they could invite vine member to try presell product and write product reviews.   
 For Amazon, customer review could rank by helpfulness in default, so that customer would see reviews that help they make better decision first.
