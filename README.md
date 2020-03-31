@@ -12,10 +12,10 @@ The data set which is over 32G includes over 130+ million customer reviews avail
 
 ## Exploratory Data Analysis
 ● Customer tends to express strong feelings when it comes to product reviews  
-  ◎ lower star rating tend to be more helpful for customer  
+& n b s p   ◎ lower star rating tend to be more helpful for customer  
 ● Vine membership plays an important role among Amazon customer reviews  
-  ◎ Vine member's review is more helpful  
-  ◎ Vine member tends to give objective opinion  
+& n b s p   ◎ Vine member's review is more helpful  
+& n b s p   ◎ Vine member tends to give objective opinion  
 ● Star rating is in consistent with sentiment preference  
 
 ## Model finding
