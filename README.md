@@ -10,6 +10,17 @@ The data set which is over 32G includes over 130+ million customer reviews avail
 ● Sentiment Analysis: Sentiment Lexicon  
 ● Modeling: logistic regression  
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 ● Customer tends to express strong feelings when it comes to product reviews
-![text](https://github.com/lilyzhangnini/amazon-reviews-pds/blob/master/Distribution%20of%20star%20rating.JPG?raw=true)
+  ◎ lower star rating tend to be more helpful for customer
+● Vine membership plays an important role among Amazon customer reviews
+  ◎ Vine member's review is more helpful
+  ◎ Vine member tends to give objective opinion
+● Star rating is in consistent with sentiment preference
+
+## Model finding
+● Review sentiment, Star rating score and vine membership is the top three important features that influence the helpfulness of a review
+
+## Advice
+For merchant, they should mananage review that gives low star rating and take measures to prevent low star rating in advance. Furthermore, they could invite vine member to try presell product and write product reviews.
+For Amazon, customer review could rank by helpfulness in default, so that customer would see reviews that help they make better decision first.
